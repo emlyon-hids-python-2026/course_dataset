@@ -1,0 +1,102 @@
+Region_Name,Region_Code,Department_Name,Department_Code
+Auvergne-Rhône-Alpes,84,Ain,dep_01
+Auvergne-Rhône-Alpes,84,Allier,dep_03
+Auvergne-Rhône-Alpes,84,Ardèche,dep_07
+Auvergne-Rhône-Alpes,84,Cantal,dep_15
+Auvergne-Rhône-Alpes,84,Drôme,dep_26
+Auvergne-Rhône-Alpes,84,Isère,dep_38
+Auvergne-Rhône-Alpes,84,Loire,dep_42
+Auvergne-Rhône-Alpes,84,Haute-Loire,dep_43
+Auvergne-Rhône-Alpes,84,Puy-de-Dôme,dep_63
+Auvergne-Rhône-Alpes,84,Rhône,dep_69
+Auvergne-Rhône-Alpes,84,Savoie,dep_73
+Auvergne-Rhône-Alpes,84,Haute-Savoie,dep_74
+Bourgogne-Franche-Comté,27,Côte-d'Or,dep_21
+Bourgogne-Franche-Comté,27,Doubs,dep_25
+Bourgogne-Franche-Comté,27,Jura,dep_39
+Bourgogne-Franche-Comté,27,Nièvre,dep_58
+Bourgogne-Franche-Comté,27,Haute-Saône,dep_70
+Bourgogne-Franche-Comté,27,Saône-et-Loire,dep_71
+Bourgogne-Franche-Comté,27,Yonne,dep_89
+Bourgogne-Franche-Comté,27,Territoire de Belfort,dep_90
+Bretagne,53,Côtes-d'Armor,dep_22
+Bretagne,53,Finistère,dep_29
+Bretagne,53,Ille-et-Vilaine,dep_35
+Bretagne,53,Morbihan,dep_56
+Centre-Val de Loire,24,Cher,dep_18
+Centre-Val de Loire,24,Eure-et-Loir,dep_28
+Centre-Val de Loire,24,Indre,dep_36
+Centre-Val de Loire,24,Indre-et-Loire,dep_37
+Centre-Val de Loire,24,Loir-et-Cher,dep_41
+Centre-Val de Loire,24,Loiret,dep_45
+Corse,94,Corse-du-Sud,dep_2A
+Corse,94,Haute-Corse,dep_2B
+Grand Est,44,Ardennes,dep_08
+Grand Est,44,Aube,dep_10
+Grand Est,44,Marne,dep_51
+Grand Est,44,Haute-Marne,dep_52
+Grand Est,44,Meurthe-et-Moselle,dep_54
+Grand Est,44,Meuse,dep_55
+Grand Est,44,Moselle,dep_57
+Grand Est,44,Bas-Rhin,dep_67
+Grand Est,44,Haut-Rhin,dep_68
+Grand Est,44,Vosges,dep_88
+Hauts-de-France,32,Aisne,dep_02
+Hauts-de-France,32,Nord,dep_59
+Hauts-de-France,32,Oise,dep_60
+Hauts-de-France,32,Pas-de-Calais,dep_62
+Hauts-de-France,32,Somme,dep_80
+Île-de-France,11,Paris,dep_75
+Île-de-France,11,Seine-et-Marne,dep_77
+Île-de-France,11,Yvelines,dep_78
+Île-de-France,11,Essonne,dep_91
+Île-de-France,11,Hauts-de-Seine,dep_92
+Île-de-France,11,Seine-Saint-Denis,dep_93
+Île-de-France,11,Val-de-Marne,dep_94
+Île-de-France,11,Val-d'Oise,dep_95
+Normandie,28,Calvados,dep_14
+Normandie,28,Eure,dep_27
+Normandie,28,Manche,dep_50
+Normandie,28,Orne,dep_61
+Normandie,28,Seine-Maritime,dep_76
+Nouvelle-Aquitaine,75,Charente,dep_16
+Nouvelle-Aquitaine,75,Charente-Maritime,dep_17
+Nouvelle-Aquitaine,75,Corrèze,dep_19
+Nouvelle-Aquitaine,75,Creuse,dep_23
+Nouvelle-Aquitaine,75,Dordogne,dep_24
+Nouvelle-Aquitaine,75,Gironde,dep_33
+Nouvelle-Aquitaine,75,Landes,dep_40
+Nouvelle-Aquitaine,75,Lot-et-Garonne,dep_47
+Nouvelle-Aquitaine,75,Pyrénées-Atlantiques,dep_64
+Nouvelle-Aquitaine,75,Deux-Sèvres,dep_79
+Nouvelle-Aquitaine,75,Vienne,dep_86
+Nouvelle-Aquitaine,75,Haute-Vienne,dep_87
+Occitanie,76,Ariège,dep_09
+Occitanie,76,Aude,dep_11
+Occitanie,76,Aveyron,dep_12
+Occitanie,76,Gard,dep_30
+Occitanie,76,Haute-Garonne,dep_31
+Occitanie,76,Gers,dep_32
+Occitanie,76,Hérault,dep_34
+Occitanie,76,Lot,dep_46
+Occitanie,76,Lozère,dep_48
+Occitanie,76,Hautes-Pyrénées,dep_65
+Occitanie,76,Pyrénées-Orientales,dep_66
+Occitanie,76,Tarn,dep_81
+Occitanie,76,Tarn-et-Garonne,dep_82
+Pays de la Loire,52,Loire-Atlantique,dep_44
+Pays de la Loire,52,Maine-et-Loire,dep_49
+Pays de la Loire,52,Mayenne,dep_53
+Pays de la Loire,52,Sarthe,dep_72
+Pays de la Loire,52,Vendée,dep_85
+Provence-Alpes-Côte d'Azur,93,Alpes-de-Haute-Provence,dep_04
+Provence-Alpes-Côte d'Azur,93,Hautes-Alpes,dep_05
+Provence-Alpes-Côte d'Azur,93,Alpes-Maritimes,dep_06
+Provence-Alpes-Côte d'Azur,93,Bouches-du-Rhône,dep_13
+Provence-Alpes-Côte d'Azur,93,Var,dep_83
+Provence-Alpes-Côte d'Azur,93,Vaucluse,dep_84
+Guadeloupe,1,Guadeloupe,dep_971
+Martinique,2,Martinique,dep_972
+Guyane,3,Guyane,dep_973
+La Réunion,4,La Réunion,dep_974
+Mayotte,6,Mayotte,dep_976
